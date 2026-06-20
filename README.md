@@ -19,6 +19,7 @@ A modern, custom-built desktop application designed to make daily task managemen
 ## 📸 Showcase
 
 ![Brodule User Interface](image.png)
+![Brodule User Interface](bn.png)
 
 ## 🎯 Project Purpose
 
